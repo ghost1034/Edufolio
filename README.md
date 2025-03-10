@@ -1,7 +1,3 @@
-# School
+# Edufolio
 
-A new Flutter project.
-
-## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+A cross-platform mobile app made with Flutter created for FBLA Mobile App Development. Allows students to create an account and upload photos and videos along with descriptions of their academic and athletic achievements.
