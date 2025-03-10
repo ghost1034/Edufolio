@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "354203165848",
+    "project_id": "student-5e8a3",
+    "storage_bucket": "student-5e8a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354203165848:android:a4e3ae3cf0fc244e0a1ced",
+        "android_client_info": {
+          "package_name": "com.ianstewart.school"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTYsa4SnXNcyOqmcw4mdj6_SedlycXGVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

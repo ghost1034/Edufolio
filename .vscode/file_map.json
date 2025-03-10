@@ -1,0 +1,26 @@
+{
+  "delete_area_with_achievements.dart": {
+    "old_identifier_name": "deleteAreaWithAchievements",
+    "new_identifier_name": "deleteAreaWithAchievements",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "618f122671e2867dd9e3b3c568c66913512f4954ccc19fe254ec54fa27ce8b2d",
+    "original_checksum": "618f122671e2867dd9e3b3c568c66913512f4954ccc19fe254ec54fa27ce8b2d"
+  },
+  "custom_functions.dart": {
+    "old_identifier_name": "CustomFunctions",
+    "new_identifier_name": "CustomFunctions",
+    "type": "F",
+    "is_deleted": false,
+    "current_checksum": "dd6a6cb2bc6eee951cb93f7fd5ae71dbc2375ab6c061e06181d742f99771f43f",
+    "original_checksum": "dd6a6cb2bc6eee951cb93f7fd5ae71dbc2375ab6c061e06181d742f99771f43f"
+  },
+  "pubspec.yaml": {
+    "old_identifier_name": "pubspec.yaml",
+    "new_identifier_name": "pubspec.yaml",
+    "type": "D",
+    "is_deleted": false,
+    "current_checksum": "74db40c52d7e7108cfd74e2328f0eb9b9bbc37db1e6b33f02771fd5200f4a109",
+    "original_checksum": "74db40c52d7e7108cfd74e2328f0eb9b9bbc37db1e6b33f02771fd5200f4a109"
+  }
+}
